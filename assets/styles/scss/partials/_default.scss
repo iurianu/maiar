@@ -134,7 +134,7 @@ body {
 
 .visible-md {@include media-lt-768px {display: none !important;}}
 .visible-lg {@include media-lt-992px {display: none !important;}}
-.hidden-md  {@include media-lt-768px {display: none !important;}}
+.hidden-md  {@include media-gt-768px {display: none !important;}}
 .hidden-lg  {@include media-gt-992px {display: none !important;}}
 
 .container {
