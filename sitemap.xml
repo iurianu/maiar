@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        image:xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://maiar.ro</loc>
+        <lastmod>2021-03-12</lastmod>
+        <changefreq>never</changefreq>
+        <priority>1</priority>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/logo.svg</image:loc>
+            <image:caption>Maiar Logo Image</image:caption>
+            <image:title>Maiar Logo</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/hero.png</image:loc>
+            <image:caption>Hero Image - era banilor digitali</image:caption>
+            <image:title>Hero Image</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/onboarding.png</image:loc>
+            <image:caption>Onboarding to the Maiar World</image:caption>
+            <image:title>Onboarding to Maiar</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/payments.png</image:loc>
+            <image:caption>Payments easy made with the Maiar App</image:caption>
+            <image:title>Payments with Maiar</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/usernames.png</image:loc>
+            <image:caption>Use custom usernames on the Maiar App</image:caption>
+            <image:title>Usernames on Maiar</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/security.png</image:loc>
+            <image:caption>You have full control of your money with the Maiar App</image:caption>
+            <image:title>Security for Maiar</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/splash.png</image:loc>
+            <image:title>Interaction with Maiar - Splash</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/vault.png</image:loc>
+            <image:title>Interaction with Maiar - Vault</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://maiar.ro/assets/images/profile.png</image:loc>
+            <image:title>Interaction with Maiar - Profile</image:title>
+        </image:image>
+    </url>
+
+</urlset> 
