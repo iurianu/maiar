@@ -1,5 +1,4 @@
 # maiar
-
 Romanian version of the homepage
 
 I created this website as a contract, 
