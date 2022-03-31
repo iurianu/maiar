@@ -7,3 +7,6 @@ in less than 1 month, and, after more than 6 months,
 it's still there
 
 [LINK](https://maiar.ro)
+
+> The code belongs to its owner
+> Anyone can use it for documentation or comparison purposes
