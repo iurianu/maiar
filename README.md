@@ -8,5 +8,5 @@ it's still there
 
 [LINK](https://maiar.ro)
 
-> The code belongs to its owner
+> The code belongs to its owner /n
 > Anyone can use it for documentation or comparison purposes
