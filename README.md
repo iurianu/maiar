@@ -1,4 +1,4 @@
-# maiar - Romanian version of the website
+# maiar - Romanian version of the homepage
 
 I created this website as a contract, 
 and managed to get it on the first page of SERP 
